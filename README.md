@@ -1,1 +1,1 @@
-# CollaborativeFiltering-BuildingReccomender_BigData
+# CollaborativeFiltering-BuildingRecommender_BigData
