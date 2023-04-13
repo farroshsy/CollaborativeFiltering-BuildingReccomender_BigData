@@ -7,3 +7,6 @@ The aim of this project is to build a recommendation system using collaborative 
 
 ## Dataset
 We will be using the MovieLens dataset, which contains ratings for various movies. The dataset can be downloaded from the following link: https://grouplens.org/datasets/movielens/
+
+## Problems
+Because on the training and the testing part for the Building Recommender, I used two different kinds of files that is similar to show the result clearer
